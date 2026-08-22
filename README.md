@@ -10,6 +10,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures, Algorit
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ehsanpanhyar/LeetCode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ehsanpanhyar/LeetCode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ehsanpanhyar/LeetCode_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0189-rotate-array](https://github.com/ehsanpanhyar/LeetCode_Solutions/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -18,6 +19,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures, Algorit
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ehsanpanhyar/LeetCode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/ehsanpanhyar/LeetCode_Solutions/tree/master/0189-rotate-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -27,4 +29,8 @@ A collection of my LeetCode solutions in Java, covering Data Structures, Algorit
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ehsanpanhyar/LeetCode_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/ehsanpanhyar/LeetCode_Solutions/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
