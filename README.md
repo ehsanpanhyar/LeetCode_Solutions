@@ -9,6 +9,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures, Algorit
 | [0001-two-sum](https://github.com/ehsanpanhyar/LeetCode_Solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ehsanpanhyar/LeetCode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ehsanpanhyar/LeetCode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ehsanpanhyar/LeetCode_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -21,4 +22,9 @@ A collection of my LeetCode solutions in Java, covering Data Structures, Algorit
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ehsanpanhyar/LeetCode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ehsanpanhyar/LeetCode_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ehsanpanhyar/LeetCode_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
