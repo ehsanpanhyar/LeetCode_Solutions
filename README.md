@@ -38,6 +38,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures, Algorit
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/ehsanpanhyar/LeetCode_Solutions/tree/master/0203-remove-linked-list-elements) |
+| [0237-delete-node-in-a-linked-list](https://github.com/ehsanpanhyar/LeetCode_Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
