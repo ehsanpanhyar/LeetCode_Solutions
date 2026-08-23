@@ -32,5 +32,6 @@ A collection of my LeetCode solutions in Java, covering Data Structures, Algorit
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/ehsanpanhyar/LeetCode_Solutions/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/ehsanpanhyar/LeetCode_Solutions/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
