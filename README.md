@@ -38,9 +38,11 @@ A collection of my LeetCode solutions in Java, covering Data Structures, Algorit
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/ehsanpanhyar/LeetCode_Solutions/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/ehsanpanhyar/LeetCode_Solutions/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ehsanpanhyar/LeetCode_Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/ehsanpanhyar/LeetCode_Solutions/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/ehsanpanhyar/LeetCode_Solutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
