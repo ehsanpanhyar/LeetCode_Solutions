@@ -15,7 +15,7 @@ class Solution {
 
         while(hare != null && hare.next != null){
             hare = hare.next.next;
-            turtle = turtle.next; 
+            turtle = turtle.next;
         }
 
         return turtle;
