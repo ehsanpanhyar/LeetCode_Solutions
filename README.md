@@ -18,6 +18,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures, Algorit
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/ehsanpanhyar/LeetCode_Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ehsanpanhyar/LeetCode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/ehsanpanhyar/LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [0876-middle-of-the-linked-list](https://github.com/ehsanpanhyar/LeetCode_Solutions/tree/master/0876-middle-of-the-linked-list) |
@@ -39,6 +40,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures, Algorit
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/ehsanpanhyar/LeetCode_Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0203-remove-linked-list-elements](https://github.com/ehsanpanhyar/LeetCode_Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ehsanpanhyar/LeetCode_Solutions/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ehsanpanhyar/LeetCode_Solutions/tree/master/0237-delete-node-in-a-linked-list) |
