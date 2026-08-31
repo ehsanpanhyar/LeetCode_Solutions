@@ -14,6 +14,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures, Algorit
 | [0189-rotate-array](https://github.com/ehsanpanhyar/LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ehsanpanhyar/LeetCode_Solutions/tree/master/0283-move-zeroes) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ehsanpanhyar/LeetCode_Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/ehsanpanhyar/LeetCode_Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Hash Table
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures, Algorit
 | [0141-linked-list-cycle](https://github.com/ehsanpanhyar/LeetCode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ehsanpanhyar/LeetCode_Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ehsanpanhyar/LeetCode_Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/ehsanpanhyar/LeetCode_Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Two Pointers
 |  |
 | ------- |
@@ -84,4 +86,9 @@ A collection of my LeetCode solutions in Java, covering Data Structures, Algorit
 |  |
 | ------- |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ehsanpanhyar/LeetCode_Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/ehsanpanhyar/LeetCode_Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
+## Simulation
+|  |
+| ------- |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/ehsanpanhyar/LeetCode_Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 <!---LeetCode Topics End-->
