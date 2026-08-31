@@ -13,12 +13,14 @@ A collection of my LeetCode solutions in Java, covering Data Structures, Algorit
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ehsanpanhyar/LeetCode_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0189-rotate-array](https://github.com/ehsanpanhyar/LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ehsanpanhyar/LeetCode_Solutions/tree/master/0283-move-zeroes) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/ehsanpanhyar/LeetCode_Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ehsanpanhyar/LeetCode_Solutions/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/ehsanpanhyar/LeetCode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ehsanpanhyar/LeetCode_Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/ehsanpanhyar/LeetCode_Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Two Pointers
 |  |
 | ------- |
@@ -31,6 +33,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures, Algorit
 | [0234-palindrome-linked-list](https://github.com/ehsanpanhyar/LeetCode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/ehsanpanhyar/LeetCode_Solutions/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/ehsanpanhyar/LeetCode_Solutions/tree/master/0876-middle-of-the-linked-list) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/ehsanpanhyar/LeetCode_Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ehsanpanhyar/LeetCode_Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Dynamic Programming
 |  |
@@ -73,4 +76,12 @@ A collection of my LeetCode solutions in Java, covering Data Structures, Algorit
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ehsanpanhyar/LeetCode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ehsanpanhyar/LeetCode_Solutions/tree/master/0142-linked-list-cycle-ii) |
+## Binary Search
+|  |
+| ------- |
+| [1346-check-if-n-and-its-double-exist](https://github.com/ehsanpanhyar/LeetCode_Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
+## Sorting
+|  |
+| ------- |
+| [1346-check-if-n-and-its-double-exist](https://github.com/ehsanpanhyar/LeetCode_Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 <!---LeetCode Topics End-->
